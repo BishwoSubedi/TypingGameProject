@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(196, 238, 238);
+}
+
+.top-section{
+    background-color: rgb(118, 116, 240);
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+}
+.bottom-section{
+    background-color: rgb(233, 238, 238);
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+}
